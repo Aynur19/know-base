@@ -18,4 +18,4 @@ $$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$$
 
 [![К.В. Воронцов - Машинное обучение. Линейные методы](https://res.cloudinary.com/marcomontalbano/image/upload/v1614583814/video_to_markdown/images/youtube--QIktmPA8nb0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/QIktmPA8nb0?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK "К.В. Воронцов - Машинное обучение. Линейные методы")
 
-{% include libs/youtube.html id=https://youtu.be/QIktmPA8nb0?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QIktmPA8nb0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
