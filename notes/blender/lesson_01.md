@@ -68,10 +68,10 @@
 
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/8XyIYRW_2xk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
->### <center> [Interface Overview - Blender 2.80 Fundamentals](https://www.youtube.com/watch?v=8XyIYRW_2xk&ab_channel=Blender) </center>
+>### <center> [Interface Overview - Blender 2.80 Fundamentals](https://youtu.be/8XyIYRW_2xk) </center>
 >Официальное видео от Blender Foundations с общей информацией о работе в Blender на низком уровне (изучить)
 
-><iframe width="560" height="315" src="https://www.youtube.com/embed/NyJWoyVx_XI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+><iframe center src="https://www.youtube.com/embed/NyJWoyVx_XI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
->### <center> [Blender Beginner Tutorial Series](https://www.youtube.com/watch?v=TPrnSACiTJ4&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U&index=2&ab_channel=BlenderGuru) </center>
+>### <center> [Blender Beginner Tutorial Series](https://youtu.be/NyJWoyVx_XI) </center>
 >Хороший вводный урок который последовательно ведет к моделированию и созданию пончика. Тут уже идет речь об возможностях и примерах модификаторов. (повторить самостоятельно упражнение данного урока и в начале следующего занятия продемонстрировать получившийся у вас пончик)

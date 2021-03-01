@@ -1,6 +1,6 @@
-# Blender
+# <center> Blender </center>
 
-## Полезные ссылки
+## <center> Полезные ссылки </center>
 <details>
   <summary>Ссылки</summary>
 
