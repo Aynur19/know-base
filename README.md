@@ -11,8 +11,9 @@
 print("hello world!")
 ```
 
-<iframe  title="YouTube video player" width="480" height="390" src="https://youtu.be/QIktmPA8nb0?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK" frameborder="0" allowfullscreen></iframe>
-</p>
+[![К.В. Воронцов - Машинное обучение. Линейные методы](https://res.cloudinary.com/marcomontalbano/image/upload/v1614583814/video_to_markdown/images/youtube--QIktmPA8nb0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/QIktmPA8nb0?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK "К.В. Воронцов - Машинное обучение. Линейные методы")
 
 $$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$$
 </details>
+
+[![К.В. Воронцов - Машинное обучение. Линейные методы](https://res.cloudinary.com/marcomontalbano/image/upload/v1614583814/video_to_markdown/images/youtube--QIktmPA8nb0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/QIktmPA8nb0?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK "К.В. Воронцов - Машинное обучение. Линейные методы")
