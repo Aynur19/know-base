@@ -1,4 +1,4 @@
-# <center> Blender </center>
+# <center> [Blender](blender.md) </center>
 
 ## <center> Занятие 1. (2021-02-02) </center>
 
@@ -60,10 +60,9 @@
 ## <center> Самостоятельная работа </center>
 1. Просмотреть перечисленные ниже видео
 2. Смоделировать пончик, как это сделал чувак из соответствующего плейлиста (+ к портфолио)
-</details>
 <br>
 
-><iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/8XyIYRW_2xk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+><iframe min-width="50%" max-width="100%" height="auto" src="https://www.youtube.com/embed/8XyIYRW_2xk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### <center> Interface Overview - Blender 2.80 Fundamentals </center>
 Официальное видео от Blender Foundations с общей информацией о работе в Blender на низком уровне (изучить)
