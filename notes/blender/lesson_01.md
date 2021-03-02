@@ -82,8 +82,21 @@
 ### <center> Interface Overview - Blender 2.80 Fundamentals </center>
 Официальное видео от Blender Foundations с общей информацией о работе в Blender на низком уровне (изучить)
 <br>
+<br>
 
-><iframe width="100%" height="auto" src="https://www.youtube.com/embed/NyJWoyVx_XI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container" 
+  style="position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 56.25%;">
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/NyJWoyVx_XI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+  style="position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;">
+</iframe>
+</div>
 
 ### <center> Blender Beginner Tutorial Series </center>
 Хороший вводный урок который последовательно ведет к моделированию и созданию пончика. Тут уже идет речь об возможностях и примерах модификаторов. (повторить самостоятельно упражнение данного урока и в начале следующего занятия продемонстрировать получившийся у вас пончик)
