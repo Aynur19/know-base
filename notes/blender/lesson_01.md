@@ -1,4 +1,4 @@
-(setq markdown-css-paths '("../../_includes/libs/iframe.css"))
+(setq markdown-css-paths '("_includes/libs/iframe.css"))
 # [Blender](blender.md)
 
 ## <center> Занятие 1. (2021-02-02) </center>
