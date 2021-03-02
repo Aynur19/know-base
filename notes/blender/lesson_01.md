@@ -1,4 +1,4 @@
-{% include libs/css.html %}
+{% include /../libs/css.html %}
 # [Blender](blender.md)
 
 ## <center> Занятие 1. (2021-02-02) </center>
