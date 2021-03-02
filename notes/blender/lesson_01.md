@@ -1,3 +1,4 @@
+{% include libs/iframe.css %}
 # [Blender](blender.md)
 
 ## <center> Занятие 1. (2021-02-02) </center>
