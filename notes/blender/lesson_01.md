@@ -1,5 +1,4 @@
-{% include libs/iframe.css %}
-# <center> [Blender](blender.md) </center>
+# [Blender](blender.md)
 
 ## <center> Занятие 1. (2021-02-02) </center>
 
@@ -63,13 +62,13 @@
 2. Смоделировать пончик, как это сделал чувак из соответствующего плейлиста (+ к портфолио)
 <br>
 
-><iframe min-width="50%" max-width="100%" height="auto" src="https://www.youtube.com/embed/8XyIYRW_2xk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+><iframe width="100%" height="auto" src="https://www.youtube.com/embed/8XyIYRW_2xk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### <center> Interface Overview - Blender 2.80 Fundamentals </center>
 Официальное видео от Blender Foundations с общей информацией о работе в Blender на низком уровне (изучить)
 <br>
 
-><iframe width="auto" height="auto" src="https://www.youtube.com/embed/NyJWoyVx_XI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+><iframe width="100%" height="auto" src="https://www.youtube.com/embed/NyJWoyVx_XI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### <center> Blender Beginner Tutorial Series </center>
 Хороший вводный урок который последовательно ведет к моделированию и созданию пончика. Тут уже идет речь об возможностях и примерах модификаторов. (повторить самостоятельно упражнение данного урока и в начале следующего занятия продемонстрировать получившийся у вас пончик)
