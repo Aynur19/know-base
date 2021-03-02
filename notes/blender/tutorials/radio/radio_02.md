@@ -1,7 +1,7 @@
 # [Руководство по Blender](../blender_tutorials.md)
 
 ## [Радиоприемник](radio_00.md)
-### [Назад](radio_02.md)
+### [Назад](radio_01.md)
 
 
 ### <center> Обучение работе с UI Blender </center>
