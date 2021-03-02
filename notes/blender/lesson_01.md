@@ -62,7 +62,9 @@
 2. Смоделировать пончик, как это сделал чувак из соответствующего плейлиста (+ к портфолио)
 <br>
 
-><iframe width="100%" height="auto" src="https://www.youtube.com/embed/8XyIYRW_2xk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/8XyIYRW_2xk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+</div>
 
 ### <center> Interface Overview - Blender 2.80 Fundamentals </center>
 Официальное видео от Blender Foundations с общей информацией о работе в Blender на низком уровне (изучить)
