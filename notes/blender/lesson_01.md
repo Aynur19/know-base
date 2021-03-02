@@ -66,8 +66,17 @@
 2. Смоделировать пончик, как это сделал чувак из соответствующего плейлиста (+ к портфолио)
 <br>
 
-<div class="container">
-<iframe src="https://www.youtube.com/embed/8XyIYRW_2xk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+<div class="container" 
+  style="position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 56.25%;">
+<iframe src="https://www.youtube.com/embed/8XyIYRW_2xk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen 
+  style="position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;"></iframe>
 </div>
 
 ### <center> Interface Overview - Blender 2.80 Fundamentals </center>
