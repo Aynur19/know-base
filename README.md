@@ -1,8 +1,8 @@
-[Пример](/notes/ml_&_ds/lesson_00.md)
+### [ML & DS. Lesson 3](/notes/ml_&_ds/lesson_03.md)
 
-[ML & DS. Lesson 3](/notes/ml_&_ds/lesson_03.md)
+### [Технологии ИИ и машинной графики](/notes/ml_&_cv/lessons/lesson_00.md)
 
-[Blender](/notes/blender/blender.md)
+### [Blender](/notes/blender/blender.md)
 
 
 ## Програмное обеспечение
