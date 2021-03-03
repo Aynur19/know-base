@@ -2,7 +2,7 @@
 
 ### [Технологии ИИ и машинной графики](/notes/ml_&_cv/lessons/lesson_00.md)
 
-### [Blender](/notes/blender/blender.md)
+### [Blender](/notes/blender/lessons/lesson_00.md)
 
 
 ## Програмное обеспечение
