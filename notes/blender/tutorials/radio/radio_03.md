@@ -1,4 +1,4 @@
-# [Руководство по Blender](../blender_tutorials.md)
+# [Руководство по Blender](../tutorials.md)
 
 ## [Радиоприемник](radio_00.md)
 ### [Назад](radio_02.md)
