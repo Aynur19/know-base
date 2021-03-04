@@ -9,4 +9,4 @@
 
 ### 2. [Горячие клавиши по умолчанию — Blender Manual](https://docs.blender.org/manual/ru/dev/interface/keymap/blender_default.html)
 
-### 3. [Руководство по Blender. Практика](/tutorials/tutorials.md)
+### 3. [Руководство по Blender. Практика](/../tutorials/tutorials.md)
