@@ -1,23 +1,30 @@
-<!-- v-cloak скрывает нескомпилированные элементы, пока сущность Vue.js не готова. -->
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    </head>
+    <body>
+        
+        <form id="main" v-cloak>
 
-<form id="main" v-cloak>
-
-	<h1>Услуги</h1>
-
-	<ul>
-		<!-- Цикл проходит по массиву услуг, присваивает обработчик для клика, и устанавливает или удаляет класс "active" -->
-		<li v-for="service in services" v-on:click="toggleActive(service)" v-bind:class="{ 'active': service.active}">
-			<!-- Показывает название и цену для каждого вложенного элемента.
-                Vue.js имеет встроенный фильтр валют для формирования цены -->
-			{{service.name}} <span>{{service.price | currency}}</span>
-		</li>
-	</ul>
-
-	<div class="total">
-		<!-- Высчитывает итоговую сумму -->
-		Итого: <span>{{total() | currency}}</span>
-	</div>
-
-</form>
-
-<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+            <h1>Услуги</h1>
+        
+            <ul>
+                <!-- Цикл проходит по массиву услуг, присваивает обработчик для клика, и устанавливает или удаляет класс "active" -->
+                <li v-for="service in services" v-on:click="toggleActive(service)" v-bind:class="{ 'active': service.active}">
+                    <!-- Показывает название и цену для каждого вложенного элемента.
+                        Vue.js имеет встроенный фильтр валют для формирования цены -->
+                    {{service.name}} <span>{{service.price | currency}}</span>
+                </li>
+            </ul>
+        
+            <div class="total">
+                <!-- Высчитывает итоговую сумму -->
+                Итого: <span>{{total() | currency}}</span>
+            </div>
+        
+        </form>
+        
+        <script src="index.js"></script>
+    </body>
+</html>
