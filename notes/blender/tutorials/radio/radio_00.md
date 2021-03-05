@@ -5,7 +5,7 @@
 <div class="container" 
   style="position: relative;
         width: 100%;
-        height: 0;
+        height: auto;
         padding-bottom: 56.25%;">
 <iframe src="https://www.youtube.com/embed/SavoO7ZuY5w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
     style="position: absolute;
